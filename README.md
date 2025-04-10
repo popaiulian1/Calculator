@@ -1,5 +1,5 @@
 # Calculator
-A feature-rich calculator application built with WPF that offers both Standard and Programmer calculation modes.
+A calculator application built with WPF that offers both Standard and Programmer calculation modes.
 
 ## Features
 ### Standard Calculator
