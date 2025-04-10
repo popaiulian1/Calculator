@@ -33,6 +33,11 @@ A calculator application built with WPF that offers both Standard and Programmer
 - Windows Presentation Foundation (WPF)
 - XAML for UI design
 
+## Screenshots
+![Standard Calculator Mode](https://github.com/popaiulian1/Calculator/blob/main/other/standard-mode-calc.JPG)
+![Programmer Calculator Mode](https://github.com/popaiulian1/Calculator/blob/main/other/programmer-mode-calc.JPG)
+
+
 ## How to Use
 ### Standard Mode
 1. Launch the application (starts in Standard mode by default)
