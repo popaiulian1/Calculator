@@ -85,6 +85,3 @@ A calculator application built with WPF that offers both Standard and Programmer
 ### Requirements
 - Windows operating system
 - .NET 8.0 runtime
-
-### Author
-Implemented by: **Popa Marian-Iulian**
